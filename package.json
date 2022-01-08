@@ -1,0 +1,9 @@
+{
+  "name": "funny-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "watchlist": "^0.3.1"
+  }
+}
